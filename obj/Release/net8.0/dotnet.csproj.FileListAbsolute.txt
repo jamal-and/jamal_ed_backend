@@ -1,0 +1,7 @@
+/Users/jamal/development/Work2/dotnet/obj/Release/net8.0/dotnet.csproj.AssemblyReference.cache
+/Users/jamal/development/Work2/dotnet/obj/Release/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamal/development/Work2/dotnet/obj/Release/net8.0/dotnet.AssemblyInfoInputs.cache
+/Users/jamal/development/Work2/dotnet/obj/Release/net8.0/dotnet.AssemblyInfo.cs
+/Users/jamal/development/Work2/dotnet/obj/Release/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/jamal/development/Work2/dotnet/obj/Release/net8.0/dotnet.MvcApplicationPartsAssemblyInfo.cs
+/Users/jamal/development/Work2/dotnet/obj/Release/net8.0/dotnet.MvcApplicationPartsAssemblyInfo.cache
